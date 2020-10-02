@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T03:56:51.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tDRSaBaMjqqd5n8706-G" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T04:00:40.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="36EH3N8Gn73j4cytoGXT" version="13.7.7" type="github">
   <diagram id="d_1DKtiYA_vMJ-yBWy1N" name="Usecase">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="qGe4qR6EoEykLK3ekskY-56" value="Xem ưu đãi của tôi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Bf_g6GfalTIEuxRdogCR-1">
           <mxGeometry x="140" y="434" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qGe4qR6EoEykLK3ekskY-57" value="Xem thông tin ưu đãi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Bf_g6GfalTIEuxRdogCR-1">
+        <mxCell id="qGe4qR6EoEykLK3ekskY-57" value="Xem tin tức ưu đãi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Bf_g6GfalTIEuxRdogCR-1">
           <mxGeometry x="140" y="374" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qGe4qR6EoEykLK3ekskY-58" value="Giới thiệu bạn bè&lt;br&gt;/chia sẻ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Bf_g6GfalTIEuxRdogCR-1">
